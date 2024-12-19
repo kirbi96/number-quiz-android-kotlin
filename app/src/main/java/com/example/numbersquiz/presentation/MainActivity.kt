@@ -1,7 +1,8 @@
-package com.example.numbersquiz
+package com.example.numbersquiz.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.numbersquiz.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
